@@ -1,1 +1,9 @@
 /* styles go here */
+.group-fields {
+  margin-bottom: 20px;
+  padding-bottom: 0;
+}
+
+.form-field {
+  padding-bottom: 10px;
+}
